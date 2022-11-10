@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there! 
+
+Here is what i'm working on...
 
 <!--
 
